@@ -1,5 +1,0 @@
-{
-  "version": "2.2.0-fifa2026",
-  "url": "https://raw.githubusercontent.com/w4ss4/fifa-goal-siren/main/alert-fifa2026-v2.2.0.bin",
-  "notes": "Fixes JSON IncompleteInput by tolerating slow-stream stalls. Soccer rebrand, ESPN goal-scorer names, goal-horn alarms, World Cup winners tracker."
-}
