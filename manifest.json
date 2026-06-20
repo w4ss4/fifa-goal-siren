@@ -1,5 +1,0 @@
-{
-  "version": "2.3.0-fifa2026",
-  "url": "https://raw.githubusercontent.com/w4ss4/fifa-goal-siren/main/alert-fifa2026-v2.3.0.bin",
-  "notes": "Adds OTA rollback safety net: a crash-looping update auto-reverts to the previous firmware (no USB needed). Schedule now lists EVERY upcoming match in the tournament (all teams) via a date-range query. Removed dead OTA-password field. Plus prior slow-stream JSON fix and goal-scorer names."
-}
