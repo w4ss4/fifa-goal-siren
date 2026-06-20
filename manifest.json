@@ -1,5 +1,0 @@
-{
-  "version": "2.3.0-fifa2026",
-  "url": "https://raw.githubusercontent.com/w4ss4/fifa-goal-siren/main/alert-fifa2026-v2.3.0.bin",
-  "notes": "Schedule now lists EVERY upcoming match in the tournament (all teams), pulled via a date-range query, not just your favorite team. Plus prior slow-stream JSON fix, ESPN goal-scorer names, goal-horn alarms."
-}
