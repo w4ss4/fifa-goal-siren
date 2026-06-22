@@ -1,5 +1,0 @@
-{
-  "version": "2.4.0-fifa2026",
-  "url": "https://raw.githubusercontent.com/w4ss4/fifa-goal-siren/main/alert-fifa2026-v2.4.0.bin",
-  "notes": "Saves flash: the dashboard's JavaScript is now served pre-gzipped from the device, freeing ~7KB of program space (headroom up from ~10KB to ~17KB). No visible change to the dashboard. Builds on v2.3.0's OTA rollback safety net and tournament-wide schedule."
-}
