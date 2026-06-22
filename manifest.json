@@ -1,0 +1,5 @@
+{
+  "version": "2.5.0-fifa2026",
+  "url": "https://raw.githubusercontent.com/w4ss4/fifa-goal-siren/main/alert-fifa2026-v2.5.0.bin",
+  "notes": "Reliability fix for live polling. A transient connection error (HTTP -1) during a live match no longer snowballs into minutes of silence: transient/connection and JSON errors now fast-retry (~2.5s) instead of exponential backoff; only genuine server throttling (429/5xx) backs off, capped at ~10s while a match is live. Added TLS handshake + connect/read timeouts to the poll, and disabled WiFi modem sleep (WiFi.setSleep(false)) to reduce intermittent connection-refused errors on a weak signal. Builds on v2.4.0's gzipped dashboard and OTA rollback safety net."
+}
